@@ -131,4 +131,4 @@ MIT License
 
 ## Контакты
 
-По вопросам и предложениям пишите на [ваш-email@example.com]
+По вопросам и предложениям пишите на [subachevdenis@yandex.ru]
